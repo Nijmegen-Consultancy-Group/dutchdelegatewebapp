@@ -15,7 +15,7 @@ django-graphos==0.3.41
 django-tastypie==0.14.0
 django-widget-tweaks==1.4.1
 docopt==0.6.2
-ecdsa==0.13
+ecdsa==0.13.3
 ECPy==0.8.2
 future==0.16.0
 hidapi==0.7.99.post21
